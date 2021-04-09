@@ -1,9 +1,13 @@
 # Project0.1
 
-This is the second attempt at the project0 tic-tac-toe project. A link to the previous attempt (project0.0 is at the bottom of the page)
+This is the second attempt at the project0 tic-tac-toe project.
 
-#### Link to where this project is currently hosted -
-https://christopherdavidjohnson.github.io/project0.1/
+### Preview
+![preview](images/preview.png)
+
+
+#### Currently hosted at -
+https://christopherdavidjohnson.github.io/Project-0.1/
 
 ##  ---- To Do List ----
 
@@ -19,8 +23,11 @@ https://christopherdavidjohnson.github.io/project0.1/
 9. Change the colour of the reset button from black to themed green/blue
 10. Change the colour of the fireworks?
 11. Change the game board X and O to match the background X and O (will look better and make the 'who's turn is it' feature more obvious).
+12. Fix bug where if you click just off to the side of the cells you reset the game.
 
 
 
 #### Link to previous version (project 0.0)
-https://christopherdavidjohnson.github.io/fictional-bassoon/
+https://christopherdavidjohnson.github.io/Project-0.0/
+
+![preview](images/previousprojectpreview.png)
